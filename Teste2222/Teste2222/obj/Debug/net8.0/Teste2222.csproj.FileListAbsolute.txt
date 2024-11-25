@@ -1,0 +1,14 @@
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\bin\Debug\net8.0\Teste2222.exe
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\bin\Debug\net8.0\Teste2222.deps.json
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\bin\Debug\net8.0\Teste2222.runtimeconfig.json
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\bin\Debug\net8.0\Teste2222.dll
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\bin\Debug\net8.0\Teste2222.pdb
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\obj\Debug\net8.0\Teste2222.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\obj\Debug\net8.0\Teste2222.AssemblyInfoInputs.cache
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\obj\Debug\net8.0\Teste2222.AssemblyInfo.cs
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\obj\Debug\net8.0\Teste2222.csproj.CoreCompileInputs.cache
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\obj\Debug\net8.0\Teste2222.dll
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\obj\Debug\net8.0\refint\Teste2222.dll
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\obj\Debug\net8.0\Teste2222.pdb
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\obj\Debug\net8.0\Teste2222.genruntimeconfig.cache
+c:\Users\H\Desktop\C#\Teste2222\Teste2222\obj\Debug\net8.0\ref\Teste2222.dll
